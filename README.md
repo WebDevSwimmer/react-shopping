@@ -72,9 +72,8 @@ npm run wdio
 ### Copyright and license
 
 The MIT License (MIT). Please see License File for more information.
-
-<br/>
-<br/>
-
-<sub>A little project by <a href="https://github.com/zhangwei5479">Zhang Wei</a></sub>
+<p align="center"><img src="https://avatars3.githubusercontent.com/u/47307975?s=400&u=5d3a6ad302503c236b60f5d85a0e32d564898838&v=4" width="50" height="50"/></p>
+<p align="center">
+  <sub>A little project by <a href="https://github.com/zhangwei5479">Zhang Wei</a></sub>
+</p>
 </p>
